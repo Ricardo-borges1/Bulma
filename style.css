@@ -1,0 +1,21 @@
+#coluna{
+    background-color: #2E1012;
+}
+
+#marrom{
+    background-color: #2E1012;
+}
+
+#centro{
+    background-color: #F3CC4D;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+}
+
+.columns{
+    height: 100%;
+    width: 100%;
+}
